@@ -1,0 +1,18 @@
+.mexa {
+  height: 80vh;
+  width: 99vw;
+  background-color: var(--cor-primaria);
+}
+.navMenu li {
+  display: inline-block;
+  list-style: none;
+  padding: 1vw;
+  text-decoration: none;
+  color: var(--cor-detalhes-primaria);
+}
+
+.navMenu li:hover {
+  font-weight: bolder;
+  text-transform: uppercase;
+  transition: 0.2s;
+}

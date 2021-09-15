@@ -1,0 +1,24 @@
+.navMenu {
+  background-color: var(--cor-secundaria);
+  color: var(--cor-detalhes-primaria);
+  position: inherit;
+  /*position: fixed;*/
+}
+
+.navMenu li {
+  display: inline-block;
+  list-style: none;
+  /*padding: 1vw;*/
+  text-decoration: none;
+  color: var(--cor-fundo-escura);
+}
+
+.navMenu li:hover {
+  font-weight: bolder;
+  text-transform: uppercase;
+  transition: 0.2s;
+}
+#rodape {
+  color: var(--cor-detalhes-primaria);
+  text-align: center;
+}

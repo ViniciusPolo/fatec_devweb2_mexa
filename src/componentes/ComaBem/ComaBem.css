@@ -1,0 +1,12 @@
+.comabem {
+  height: 80vh;
+  width: 99vw;
+  background-color: var(--cor-primaria);
+}
+
+.inicio_api {
+  border: 1px solid black;
+}
+.inicio_destaque {
+  border: 1px solid black;
+}

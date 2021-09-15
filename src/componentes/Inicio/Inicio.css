@@ -1,0 +1,15 @@
+.inicio {
+  height: 93vh;
+  width: 99vw;
+  background-color: var(--cor-primaria);
+}
+.inicio_api {
+  border: solid black;
+  margin-bottom: 10vh;
+  height: 35vh;
+}
+.inicio_destaque {
+  border: solid black;
+  margin-bottom: 10vh;
+  height: 35vh;
+}

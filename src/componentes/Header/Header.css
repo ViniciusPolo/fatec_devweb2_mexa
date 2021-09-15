@@ -1,0 +1,26 @@
+.navMenu {
+  background-color: var(--cor-secundaria);
+  position: relative;
+}
+#icone {
+  color: var(--cor-detalhes-primaria);
+}
+#logo {
+  font-size: larger;
+  color: var(--cor-fundo-escura);
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+.navMenu li {
+  display: inline-block;
+  list-style: none;
+  padding-left: 5vw;
+  align-items: flex-end;
+  text-decoration: none;
+}
+
+.navMenu li:hover {
+  font-weight: bolder;
+  text-transform: uppercase;
+  transition: 0.2s;
+}

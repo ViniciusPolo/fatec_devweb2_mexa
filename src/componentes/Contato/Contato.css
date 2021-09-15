@@ -1,0 +1,8 @@
+.contato {
+  height: 75vh;
+  width: 99vw;
+  position: relative;
+
+  background-color: var(--cor-primaria);
+  color: var(--cor-fundo-escura);
+}

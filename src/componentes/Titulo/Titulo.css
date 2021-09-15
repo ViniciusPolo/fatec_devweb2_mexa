@@ -1,0 +1,5 @@
+.titulo {
+  background-color: var(--cor-secundaria);
+  color: var(--cor-fundo-escura);
+  border-bottom: 5px solid var(--cor-detalhes-primaria);
+}

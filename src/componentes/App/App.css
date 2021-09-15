@@ -1,0 +1,21 @@
+:root {
+  --cor-primaria: #e3e5e6;
+  --cor-secundaria: #45b8cc;
+  --cor-secundaria-clara: #c0c2c2;
+  --cor-fundo-escura: #394547;
+  --cor-fundo-clara: #979999;
+  --cor-detalhes-primaria: rgb(250, 1, 1);
+}
+/*.conteudo {
+  width: 98vw;
+  height: 98vh;
+}*/
+.Menurodape {
+  /*position: fixed;*/
+  width: 100%;
+}
+
+.corpo {
+  width: 99vw;
+  /*position: fixed;*/
+}
